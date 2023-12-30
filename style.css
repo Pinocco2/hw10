@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&family=Open+Sans:wght@300;400;700&family=Playfair+Display&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&family=Open+Sans:wght@300;400;700&family=Playfair+Display&family=Roboto+Slab&family=Ubuntu:wght@300&display=swap');
+body {
+    font-family: "Montserrat";
+}
+.card-text {
+    font-family: "Roboto Slab";
+    color: #777777;
+}
+.header-menu {
+    color: #FED136;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.card-title {
+    color: #222222;
+
+}
+.card-img {
+    width: 66px;
+    height: 66px;
+}
+.header-link {
+    color: #FED136;
+    text-decoration: none;
+}
+
